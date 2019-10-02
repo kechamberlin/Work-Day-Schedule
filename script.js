@@ -4,6 +4,7 @@
         var todoList = document.querySelector(".todo-list");
         var todos = [];
 
+
         init();
 
         function renderTodos() {
